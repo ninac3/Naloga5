@@ -21,8 +21,8 @@ S tem se zmanjša možnost konfliktov in izgube podatkov.
 
 | Ukaz | Namen |
 |------|--------|
-| `git init` | Ustvari nov lokalni repozitorij |
-| `git clone <url>` | Klonira obstoječi repozitorij |
+| `git init` | *Ustvari nov lokalni repozitorij* |
+| `git clone <url>` | **Klonira obstoječi repozitorij** |
 | `git status` | Prikaže stanje sprememb |
 | `git add <datoteka>` | Doda datoteko v pripravo za commit |
 | `git commit -m "Opis spremembe"` | Zabeleži spremembe |
